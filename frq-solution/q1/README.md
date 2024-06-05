@@ -1,5 +1,5 @@
 # Quesrion 1
 ## • This question is about simulates for birds eat random feeder or possibly a bear eat all feeder.
-## • Struggles with this question, all we have to use **Math.random()** correctly and understanding correctly what the question ask.
+## • Struggles with this question, all we have to use *Math.random()* correctly and understanding correctly what the question ask.
 ## • Prior expereiences that helped...
 ## • What I learned by doing this question...
